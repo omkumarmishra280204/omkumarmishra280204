@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Om Mishra  
+*A passionate MERN Stack Developer & Creative Frontend Engineer from India*
+
+📫 Email Me 👉 ✉ *ommishra280204@gmail.com* — for collaboration, projects or quick questions.
+
+- 🔭 *I’m currently working on:* Building dynamic full-stack apps and engaging frontends using *React · Next.js · MongoDB · Express · Node.js* — shipping polished MERN prototypes, interactive product experiences and creative web solutions.  
+- 🌱 *I’m currently learning:* Deep diving into *WebGL & GLSL shaders* — procedural effects, performance tuning and real-time visuals.  
+- 👯 *I’m looking to collaborate on:* Experimental 3D frontends, SaaS dashboards, marketing pages with advanced visuals, and MERN stack applications. (If you have a startup, brand or creative brief — let’s talk!)  
+- 🤔 *I’m looking for help with:* Advanced shader optimization, complex GLSL pipelines, and strategies to deploy heavy 3D scenes smoothly to production.  
+- 💬 *Ask me about:* React, Next.js, Three.js, GSAP, TailwindCSS, MERN stack development and frontend performance.  
+- 📫 *How to reach me:* *ommishra280204@gmail.com* — or DM me on GitHub / LinkedIn.  
+- 😄 *Pronouns:* Om  
+- ⚡ *Fun fact:* MERN stack is my foundation, React is my canvas, Next.js powers my apps, and Three.js + WebGL is my playground. When I’m not building apps, I’m experimenting with visuals, learning new tech or creating side projects for fun!
+
+> Open for freelance/contract work, collaboration & mentoring. Hit me up — I reply fast. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om_santoshmishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkumarmishra-dev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OmkumarMis40366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ommishra280204@gmail.com) 
@@ -11,6 +26,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omkumarmishra280204&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
